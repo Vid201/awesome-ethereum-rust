@@ -6,8 +6,9 @@ Awesome Ethereum Rust repos
 - [EVM - Ethereum Virtual Machine](#evm---ethereum-virtual-machine)
 - [Core](#core)
 - [Light Clients](#light-clients)
+- [Scaling](#scaling)
 - [PBS - Proposer-Builder Separation](#pbs---proposer-builder-separation)
-- [Account abstraction](#account-abstraction)
+- [Account Abstraction](#account-abstraction)
 - [zkEVM](#zkevm)
 - [Statelessness](#statelessness)
 - [Layer 2](#layer-2)
@@ -45,7 +46,7 @@ Complete Ethereum library and wallet implementation.
 - [Reth](https://github.com/paradigmxyz/reth).
 Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.
 - [ssz-rs](https://github.com/ralexstokes/ssz-rs).
-Implementation of ethereum's `ssz`.
+Implementation of Ethereum's ssz.
 
 ## Light Clients
 
@@ -53,6 +54,15 @@ Implementation of ethereum's `ssz`.
 An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage.
 - [Helios](https://github.com/a16z/helios).
 A fast, secure, and portable light client for Ethereum.
+
+## Scaling
+
+- [proto-danksharding-crypto](https://github.com/crate-crypto/proto-danksharding-crypto).
+Proto-Danksharding Cryptography.
+- [c-kzg-4844](https://github.com/ethereum/c-kzg-4844/blob/main/bindings/rust/README.md).
+Minimal 4844 version of c-kzg (bindings for Rust).
+- [KZG Ceremony Sequencer](https://github.com/ethereum/kzg-ceremony-sequencer).
+This implements KZG Ceremony Specification.
 
 ## PBS - Proposer-Builder Separation
 
@@ -67,7 +77,7 @@ A simple, modular, and fast framework for writing MEV bots.
 - [mev-share-rs](https://github.com/paradigmxyz/mev-share-rs).
 Rust client library for Flashbots MEV-share.
 
-## Account abstraction
+## Account Abstraction
 
 - [Silius](https://github.com/Vid201/silius/).
 ERC-4337 (Account Abstraction) - modular and efficient bundler implementation.
@@ -118,6 +128,8 @@ zkSync era.
 
 - [Foundry](https://github.com/foundry-rs/foundry).
 Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.
+- [Rivet](https://github.com/paradigmxyz/rivet).
+Developer Wallet & DevTools for Anvil.
 
 ## Smart Contracts
 
