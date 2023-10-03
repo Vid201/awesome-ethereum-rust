@@ -31,6 +31,8 @@ Rust implementation of Discovery v5.
 
 - [Reth](https://github.com/paradigmxyz/reth).
 Ethereum execution client.
+- [Akula](https://github.com/akula-bft/akula).
+Ethereum execution client - deprecated.
 
 ## EVM - Ethereum Virtual Machine
 
@@ -58,6 +60,8 @@ A fast, secure, and portable light client for Ethereum.
 ## Scaling
 
 - [proto-danksharding-crypto](https://github.com/crate-crypto/proto-danksharding-crypto).
+- [kzg](https://github.com/ralexstokes/kzg).
+A library for KZG commitments over BLS12-381 in Rust.
 Proto-Danksharding Cryptography.
 - [c-kzg-4844](https://github.com/ethereum/c-kzg-4844/blob/main/bindings/rust/README.md).
 Minimal 4844 version of c-kzg (bindings for Rust).
@@ -81,6 +85,8 @@ Rust client library for Flashbots MEV-share.
 
 - [Silius](https://github.com/Vid201/silius/).
 ERC-4337 (Account Abstraction) - modular and efficient bundler implementation.
+- [Rundler](https://github.com/alchemyplatform/rundler).
+An ERC-4337 Bundler in Rust - high-performance, modular implementation of an ERC-4337 bundler.
 - [ethers-userop](https://github.com/qi-protocol/ethers-userop/).
 An ether-rs middleware to craft user operations.
 - [UoIndexer](https://github.com/zsluedem/UoIndexer).
@@ -90,11 +96,15 @@ User operation indexer for ERC-4337.
 
 - [Zeth](https://github.com/risc0/zeth).
 A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM.
+- [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits).
+Circuits for zkEVM.
 
 ## Statelessness
 
 - [rust-verkle](https://github.com/crate-crypto/rust-verkle).
 This is a proof of concept implementation of Verkle Tries.
+- [verkle-block-sample](https://github.com/gballet/verkle-block-sample).
+Example of a block root with a Verkle state root.
 
 ## Layer 2
 
@@ -102,11 +112,25 @@ This is a proof of concept implementation of Verkle Tries.
 - [Stylus](https://github.com/OffchainLabs/stylus-sdk-rs).
 Rust Smart Contracts on Arbitrum.
 
+### Aztec
+- [noir-lang](https://github.com/noir-lang/noir).
+Noir is a domain specific language for zero knowledge proofs.
+
 ### Optimism
 - [op-reth](https://github.com/anton-rs/op-reth).
 Optimism + Reth.
 - [Magi](https://github.com/a16z/magi).
 A blazing fast OP Stack rollup client.
+- [op-revm](https://github.com/anton-rs/op-revm).
+Optimism + Revm.
+- [cannon-rs](https://github.com/anton-rs/cannon-rs).
+An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.
+- [optimism-rs](https://github.com/refcell/optimism-rs).
+Scaling Ethereum, but this time in rust.
+
+### Polygon
+- [plonky2](https://github.com/0xPolygonZero/plonky2).
+Plonky2, a SNARK implementation based on techniques from PLONK and FRI.
 
 ### StarkNet
 - [StarkNet Foundry](https://github.com/foundry-rs/starknet-foundry).
@@ -119,10 +143,14 @@ Papyrus is a StarkNet full node written.
 Complete Starknet library.
 - [Cairo](https://github.com/starkware-libs/cairo).
 Cairo is the first Turing-complete language for creating provable programs for general computation.
+- [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
+A Rust implementation of Starknet execution logic.
 
 ### ZkSync
 - [zksync-era](https://github.com/matter-labs/zksync-era).
 zkSync era.
+- [era-sync_vm](https://github.com/matter-labs/era-sync_vm).
+Circuit Implementation of zkVM for zkSync Era.
 
 ## dApp Development
 
