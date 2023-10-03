@@ -132,6 +132,10 @@ Scaling Ethereum, but this time in rust.
 - [plonky2](https://github.com/0xPolygonZero/plonky2).
 Plonky2, a SNARK implementation based on techniques from PLONK and FRI.
 
+### Scroll
+- [scroll-prover](https://github.com/scroll-tech/scroll-prover).
+Scroll's zkEVM rust crates.
+
 ### StarkNet
 - [StarkNet Foundry](https://github.com/foundry-rs/starknet-foundry).
 Blazing fast toolkit for developing Starknet contracts.
