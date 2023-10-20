@@ -26,6 +26,8 @@ A library for interacting with Ethereum consensus objects.
 A client for the Ethereum beacon node APIs.
 - [discv5](https://github.com/sigp/discv5).
 Rust implementation of Discovery v5.
+- [libp2p](https://github.com/libp2p/rust-libp2p).
+The Rust Implementation of the libp2p networking stack.
 
 ## Execution
 
@@ -33,11 +35,17 @@ Rust implementation of Discovery v5.
 Ethereum execution client.
 - [Akula](https://github.com/akula-bft/akula).
 Ethereum execution client - deprecated.
+- [ranger](https://github.com/Rjected/ranger).
+Ranger is an ethereum p2p client capable of interacting with peers without a full node.
 
 ## EVM - Ethereum Virtual Machine
 
 - [Revm](https://github.com/bluealloy/revm/).
 Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity.
+- [jitevm](https://github.com/paradigmxyz/jitevm).
+Convert evm bytecode to native machine code and go vroom.
+- [evm-disassembler](https://github.com/ckoopmann/evm-disassembler).
+Rust library to disassemble evm bytecode.
 
 ## Core
 
@@ -47,8 +55,22 @@ High-performance, well-tested & documented core libraries for Ethereum.
 Complete Ethereum library and wallet implementation.
 - [Reth](https://github.com/paradigmxyz/reth).
 Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.
+- [ethers-reth](https://github.com/SorellaLabs/ethers-reth/).
+An ether-rs middleware to access reth's db directly, bypassing JSON-RPC.
+- [rust-web3](https://github.com/tomusdrw/rust-web3).
+Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [ssz-rs](https://github.com/ralexstokes/ssz-rs).
 Implementation of Ethereum's ssz.
+- [ssz_types](https://github.com/sigp/ssz_types).
+List, vector and bitfield types for SSZ.
+- [rlp](https://github.com/alloy-rs/rlp).
+Fast implementation of Ethereum RLP serialization.
+- [enr](https://github.com/sigp/enr).
+This crate contains an implementation of an Ethereum Node Record (ENR) as specified by EIP-778.
+- [Rust Crypto](https://github.com/RustCrypto).
+Dozens of popular crates which provide pure Rust implementations of cryptographic algorithms.
+- [uint](https://github.com/recmo/uint).
+Rust Uint crate using const-generics.
 
 ## Light Clients
 
@@ -92,12 +114,18 @@ An ether-rs middleware to craft user operations.
 - [UoIndexer](https://github.com/zsluedem/UoIndexer).
 User operation indexer for ERC-4337.
 
-## zkEVM
+## ZKP and zkEVM
 
 - [Zeth](https://github.com/risc0/zeth).
 A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM.
 - [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits).
 Circuits for zkEVM.
+- [halo2](https://github.com/privacy-scaling-explorations/halo2).
+Implementation of halo2 zkSNARK proof system.
+- [chiquito](https://github.com/privacy-scaling-explorations/chiquito).
+DSL for Halo2 circuits.
+- [lambdaworks](https://github.com/lambdaclass/lambdaworks).
+The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.
 
 ## Statelessness
 
@@ -127,6 +155,10 @@ Optimism + Revm.
 An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.
 - [optimism-rs](https://github.com/refcell/optimism-rs).
 Scaling Ethereum, but this time in rust.
+- [op-up](https://github.com/anton-rs/op-up).
+Composable OP Stack Orchestration.
+- [durin](https://github.com/anton-rs/durin).
+A Rust library for creating solvers in the OP Stack's dispute protocol.
 
 ### Polygon
 - [plonky2](https://github.com/0xPolygonZero/plonky2).
@@ -147,8 +179,12 @@ Papyrus is a StarkNet full node written.
 Complete Starknet library.
 - [Cairo](https://github.com/starkware-libs/cairo).
 Cairo is the first Turing-complete language for creating provable programs for general computation.
+- [cairo-vm](https://github.com/lambdaclass/cairo-vm).
+cairo-vm is a Rust implementation of the Cairo VM.
 - [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust).
 A Rust implementation of Starknet execution logic.
+- [types-rs](https://github.com/starknet-io/types-rs).
+Starknet Rust types.
 
 ### ZkSync
 - [zksync-era](https://github.com/matter-labs/zksync-era).
@@ -175,8 +211,15 @@ A tool for analyzing the security and parameters of a solidity smart contract.
 Emerging smart contract language for the Ethereum blockchain.
 - [svm-rs](https://github.com/alloy-rs/svm-rs).
 Solidity-Compiler Version Manager.
+- [huff-rs](https://github.com/huff-language/huff-rs).
+A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
 
 ## Data Analytics
 
 - [cryo](https://github.com/paradigmxyz/cryo).
 cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes.
+
+## Misc
+
+- [block-explorers](https://github.com/foundry-rs/block-explorers).
+Bindings for the etherscan API and other block explorers.
