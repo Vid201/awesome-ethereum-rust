@@ -9,7 +9,7 @@ Awesome Ethereum Rust repos
 - [Scaling](#scaling)
 - [PBS - Proposer-Builder Separation](#pbs---proposer-builder-separation)
 - [Account Abstraction](#account-abstraction)
-- [zkEVM](#zkevm)
+- [ZKP and zkEVM](#zkp-and-zkevm)
 - [Statelessness](#statelessness)
 - [Layer 2](#layer-2)
 - [dApp Development](#dapp-development)
@@ -126,6 +126,8 @@ Implementation of halo2 zkSNARK proof system.
 DSL for Halo2 circuits.
 - [lambdaworks](https://github.com/lambdaclass/lambdaworks).
 The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.
+- [noir-lang](https://github.com/noir-lang/noir).
+Noir is a domain specific language for zero knowledge proofs.
 
 ## Statelessness
 
@@ -139,10 +141,6 @@ Example of a block root with a Verkle state root.
 ### Arbitrum
 - [Stylus](https://github.com/OffchainLabs/stylus-sdk-rs).
 Rust Smart Contracts on Arbitrum.
-
-### Aztec
-- [noir-lang](https://github.com/noir-lang/noir).
-Noir is a domain specific language for zero knowledge proofs.
 
 ### Optimism
 - [op-reth](https://github.com/anton-rs/op-reth).
@@ -186,7 +184,7 @@ A Rust implementation of Starknet execution logic.
 - [types-rs](https://github.com/starknet-io/types-rs).
 Starknet Rust types.
 
-### ZkSync
+### zkSync
 - [zksync-era](https://github.com/matter-labs/zksync-era).
 zkSync era.
 - [era-sync_vm](https://github.com/matter-labs/era-sync_vm).
