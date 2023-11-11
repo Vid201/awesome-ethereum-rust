@@ -46,6 +46,8 @@ Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on s
 Convert evm bytecode to native machine code and go vroom.
 - [evm-disassembler](https://github.com/ckoopmann/evm-disassembler).
 Rust library to disassemble evm bytecode.
+- [create2crunch](https://github.com/0age/create2crunch).
+A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.
 
 ## Core
 
@@ -61,6 +63,8 @@ An ether-rs middleware to access reth's db directly, bypassing JSON-RPC.
 Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [ssz-rs](https://github.com/ralexstokes/ssz-rs).
 Implementation of Ethereum's ssz.
+- [ethereum_ssz](https://github.com/sigp/ethereum_ssz).
+SimpleSerialize (SSZ) implementation optimised for speed and security.
 - [ssz_types](https://github.com/sigp/ssz_types).
 List, vector and bitfield types for SSZ.
 - [rlp](https://github.com/alloy-rs/rlp).
@@ -89,6 +93,8 @@ Proto-Danksharding Cryptography.
 Minimal 4844 version of c-kzg (bindings for Rust).
 - [KZG Ceremony Sequencer](https://github.com/ethereum/kzg-ceremony-sequencer).
 This implements KZG Ceremony Specification.
+- [kateth](https://github.com/jacobkaufmann/kateth).
+Ethereum KZG.
 
 ## PBS - Proposer-Builder Separation
 
