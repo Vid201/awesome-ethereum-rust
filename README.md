@@ -51,7 +51,9 @@ A Rust program for finding salts that create gas-efficient Ethereum addresses vi
 
 ## Core
 
-- [Alloy](https://github.com/alloy-rs/core).
+- [alloy](https://github.com/alloy-rs/alloy).
+Alloy connects applications to blockchains. Transports, Middleware, and Networks for the Alloy project. Rewrite of ethers-rs.
+- [alloy core](https://github.com/alloy-rs/core).
 High-performance, well-tested & documented core libraries for Ethereum.
 - [ethers-rs](https://github.com/gakonst/ethers-rs/).
 Complete Ethereum library and wallet implementation.
