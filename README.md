@@ -136,6 +136,8 @@ DSL for Halo2 circuits.
 The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.
 - [noir-lang](https://github.com/noir-lang/noir).
 Noir is a domain specific language for zero knowledge proofs.
+- [sp1-reth](https://github.com/succinctlabs/sp1-reth).
+A performant, type-1 zkEVM written in Rust & SP1.
 
 ## Statelessness
 
