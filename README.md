@@ -48,6 +48,10 @@ Convert evm bytecode to native machine code and go vroom.
 Rust library to disassemble evm bytecode.
 - [create2crunch](https://github.com/0age/create2crunch).
 A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.
+- [balls](https://github.com/Philogy/balls).
+A DSL for generating optimal EVM bytecode.
+- [evm-inspectors](https://github.com/paradigmxyz/evm-inspectors).
+EVM Execution Hooks for revm.
 
 ## Core
 
@@ -55,6 +59,8 @@ A Rust program for finding salts that create gas-efficient Ethereum addresses vi
 Alloy connects applications to blockchains. Transports, Middleware, and Networks for the Alloy project. Rewrite of ethers-rs.
 - [alloy core](https://github.com/alloy-rs/core).
 High-performance, well-tested & documented core libraries for Ethereum.
+- [chains](https://github.com/alloy-rs/chains).
+Canonical type definitions for EIP-155 chains.
 - [ethers-rs](https://github.com/gakonst/ethers-rs/).
 Complete Ethereum library and wallet implementation.
 - [Reth](https://github.com/paradigmxyz/reth).
@@ -108,8 +114,14 @@ A prototype Ethereum block builder.
 An Ethers middleware for submitting Flashbots bundles.
 - [Artemis](https://github.com/paradigmxyz/artemis).
 A simple, modular, and fast framework for writing MEV bots.
+- [Hindsight](https://github.com/flashbots/hindsight).
+Retroactively estimate Uniswap-ish MEV on Flashbots MEV-Share by simulating backrun-arbitrages.
 - [mev-share-rs](https://github.com/paradigmxyz/mev-share-rs).
 Rust client library for Flashbots MEV-share.
+- [mev-inspect-rs](https://github.com/flashbots/mev-inspect-rs).
+Discover historic Miner Extractable Value (MEV) opportunities.
+- [suave-andromeda-revm](https://github.com/flashbots/suave-andromeda-revm).
+Andromeda revm execution service - EVM with precompiles used internally by SUAVE for key management and boostrapping kettles.
 
 ## Account Abstraction
 
@@ -136,6 +148,8 @@ DSL for Halo2 circuits.
 The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.
 - [noir-lang](https://github.com/noir-lang/noir).
 Noir is a domain specific language for zero knowledge proofs.
+- [sp1](https://github.com/succinctlabs/sp1).
+A performant, 100% open-source, contributor-friendly zkVM.
 - [sp1-reth](https://github.com/succinctlabs/sp1-reth).
 A performant, type-1 zkEVM written in Rust & SP1.
 
@@ -176,13 +190,13 @@ Plonky2, a SNARK implementation based on techniques from PLONK and FRI.
 - [scroll-prover](https://github.com/scroll-tech/scroll-prover).
 Scroll's zkEVM rust crates.
 
-### StarkNet
-- [StarkNet Foundry](https://github.com/foundry-rs/starknet-foundry).
+### Starknet
+- [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry).
 Blazing fast toolkit for developing Starknet contracts.
 - [Madara](https://github.com/keep-starknet-strange/madara).
 Madara is a blazing fast Starknet sequencer, based on substrate.
 - [Papyrus](https://github.com/starkware-libs/papyrus).
-Papyrus is a StarkNet full node written.
+Papyrus is a Starknet full node written.
 - [starknet-rs](https://github.com/xJonathanLEI/starknet-rs).
 Complete Starknet library.
 - [Cairo](https://github.com/starkware-libs/cairo).
