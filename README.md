@@ -28,7 +28,7 @@ A client for the Ethereum beacon node APIs.
 - [discv5](https://github.com/sigp/discv5).
 Rust implementation of Discovery v5.
 - [libp2p](https://github.com/libp2p/rust-libp2p).
-The Rust Implementation of the libp2p networking stack.
+The Rust implementation of the libp2p networking stack.
 
 ## Execution
 
