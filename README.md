@@ -1,4 +1,5 @@
 # awesome-ethereum-rust
+
 Awesome Ethereum Rust repos
 
 - [Consensus](#consensus)
@@ -163,12 +164,16 @@ Example of a block root with a Verkle state root.
 ## Layer 2
 
 ### Arbitrum
+
 - [Stylus](https://github.com/OffchainLabs/stylus-sdk-rs).
 Rust Smart Contracts on Arbitrum.
 
 ### Optimism
+
 - [op-reth](https://github.com/anton-rs/op-reth).
 Optimism + Reth.
+- [Reth AlphaNet](https://github.com/paradigmxyz/alphanet).
+Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.
 - [Magi](https://github.com/a16z/magi).
 A blazing fast OP Stack rollup client.
 - [op-revm](https://github.com/anton-rs/op-revm).
@@ -183,14 +188,17 @@ Composable OP Stack Orchestration.
 A Rust library for creating solvers in the OP Stack's dispute protocol.
 
 ### Polygon
+
 - [plonky2](https://github.com/0xPolygonZero/plonky2).
 Plonky2, a SNARK implementation based on techniques from PLONK and FRI.
 
 ### Scroll
+
 - [scroll-prover](https://github.com/scroll-tech/scroll-prover).
 Scroll's zkEVM rust crates.
 
 ### Starknet
+
 - [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry).
 Blazing fast toolkit for developing Starknet contracts.
 - [Madara](https://github.com/keep-starknet-strange/madara).
@@ -209,10 +217,21 @@ A Rust implementation of Starknet execution logic.
 Starknet Rust types.
 
 ### zkSync
+
 - [zksync-era](https://github.com/matter-labs/zksync-era).
 zkSync era.
 - [era-sync_vm](https://github.com/matter-labs/era-sync_vm).
 Circuit Implementation of zkVM for zkSync Era.
+
+### Taiko
+
+- [raiko](https://github.com/taikoxyz/raiko).
+Multi-proofs for Taiko. SNARKS, STARKS and Trusted Execution Enclave.
+
+### Other
+
+- [zenith-rs](https://github.com/init4tech/zenith-rs).
+Rust types and services for Zenith (next-gen rollup system).
 
 ## dApp Development
 
