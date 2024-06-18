@@ -215,6 +215,8 @@ cairo-vm is a Rust implementation of the Cairo VM.
 A Rust implementation of Starknet execution logic.
 - [types-rs](https://github.com/starknet-io/types-rs).
 Starknet Rust types.
+- [Stone Prover](https://github.com/starkware-libs/stone-prover).
+Stone prover - this repository contains a prover and a verifier for STARKs, and in particular for the CPU AIR underlying the CairoZero programming language.
 
 ### zkSync
 
