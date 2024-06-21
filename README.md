@@ -53,6 +53,8 @@ A Rust program for finding salts that create gas-efficient Ethereum addresses vi
 A DSL for generating optimal EVM bytecode.
 - [evm-inspectors](https://github.com/paradigmxyz/evm-inspectors).
 EVM Execution Hooks for revm.
+- [revmc](https://github.com/paradigmxyz/revmc).
+JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
 
 ## Core
 
