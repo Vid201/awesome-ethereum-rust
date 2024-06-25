@@ -232,6 +232,20 @@ Circuit Implementation of zkVM for zkSync Era.
 - [raiko](https://github.com/taikoxyz/raiko).
 Multi-proofs for Taiko. SNARKS, STARKS and Trusted Execution Enclave.
 
+### Fuel
+
+- [Sway](https://github.com/FuelLabs/sway).
+Sway is a language developed for the Fuel blockchain. It is heavily inspired by Rust and aims to bring modern language development and performance to the blockchain ecosystem.
+- [fuel-core](https://github.com/FuelLabs/fuel-core).
+Rust full node implementation of the Fuel v2 protocol.
+- [fuels-rs](https://github.com/FuelLabs/fuels-rs).
+Rust SDK for Fuel.
+
+### Aztec
+
+- [aztec-nr](https://github.com/AztecProtocol/aztec-nr).
+Aztec-nr is a Noir framework for smart contracts on Aztec.
+
 ### Other
 
 - [zenith-rs](https://github.com/init4tech/zenith-rs).
