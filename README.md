@@ -188,6 +188,8 @@ Scaling Ethereum, but this time in rust.
 Composable OP Stack Orchestration.
 - [durin](https://github.com/anton-rs/durin).
 A Rust library for creating solvers in the OP Stack's dispute protocol.
+- [op-alloy](https://github.com/alloy-rs/op-alloy).
+Optimism alloy types.
 
 ### Polygon
 
