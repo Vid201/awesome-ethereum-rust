@@ -38,6 +38,8 @@ Ethereum execution client.
 Ethereum execution client - deprecated.
 - [ranger](https://github.com/Rjected/ranger).
 Ranger is an ethereum p2p client capable of interacting with peers without a full node.
+- [ethrex](https://github.com/lambdaclass/ethrex).
+Lambda Ethereum Rust Execution client.
 
 ## EVM - Ethereum Virtual Machine
 
@@ -55,6 +57,8 @@ A DSL for generating optimal EVM bytecode.
 EVM Execution Hooks for revm.
 - [revmc](https://github.com/paradigmxyz/revmc).
 JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
+- [evm_mlir](https://github.com/lambdaclass/evm_mlir).
+An EVM written with MLIR.
 
 ## Core
 
@@ -221,6 +225,8 @@ A Rust implementation of Starknet execution logic.
 Starknet Rust types.
 - [Stone Prover](https://github.com/starkware-libs/stone-prover).
 Stone prover - this repository contains a prover and a verifier for STARKs, and in particular for the CPU AIR underlying the CairoZero programming language.
+- [cairo_native](https://github.com/lambdaclass/cairo_native).
+A compiler to convert Cairo's intermediate representation "Sierra" code to MLIR.
 
 ### zkSync
 
@@ -228,6 +234,8 @@ Stone prover - this repository contains a prover and a verifier for STARKs, and 
 zkSync era.
 - [era-sync_vm](https://github.com/matter-labs/era-sync_vm).
 Circuit Implementation of zkVM for zkSync Era.
+- [era_vm](https://github.com/lambdaclass/era_vm).
+EraVM implementation.
 
 ### Taiko
 
