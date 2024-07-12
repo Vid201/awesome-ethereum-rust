@@ -129,6 +129,8 @@ Rust client library for Flashbots MEV-share.
 Discover historic Miner Extractable Value (MEV) opportunities.
 - [suave-andromeda-revm](https://github.com/flashbots/suave-andromeda-revm).
 Andromeda revm execution service - EVM with precompiles used internally by SUAVE for key management and boostrapping kettles.
+- [rbuilder](https://github.com/flashbots/rbuilder).
+rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.
 
 ## Account Abstraction
 
