@@ -59,6 +59,8 @@ EVM Execution Hooks for revm.
 JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
 - [evm_mlir](https://github.com/lambdaclass/evm_mlir).
 An EVM written with MLIR.
+- [pevm](https://github.com/risechain/pevm).
+Blazingly fast Parallel EVM in Rust.
 
 ## Core
 
