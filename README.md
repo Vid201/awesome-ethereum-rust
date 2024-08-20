@@ -198,6 +198,8 @@ Composable OP Stack Orchestration.
 A Rust library for creating solvers in the OP Stack's dispute protocol.
 - [op-alloy](https://github.com/alloy-rs/op-alloy).
 Optimism alloy types.
+- [kona](https://github.com/ethereum-optimism/kona).
+A suite of `no_std` components for the OP Stack state transition function.
 
 ### Polygon
 
