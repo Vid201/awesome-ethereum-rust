@@ -163,6 +163,8 @@ Noir is a domain specific language for zero knowledge proofs.
 A performant, 100% open-source, contributor-friendly zkVM.
 - [sp1-reth](https://github.com/succinctlabs/sp1-reth).
 A performant, type-1 zkEVM written in Rust & SP1.
+- [rsp](https://github.com/succinctlabs/rsp).
+A minimal implementation of ZKPs of Ethereum block execution using Reth.
 
 ## Statelessness
 
@@ -200,6 +202,8 @@ A Rust library for creating solvers in the OP Stack's dispute protocol.
 Optimism alloy types.
 - [kona](https://github.com/ethereum-optimism/kona).
 A suite of `no_std` components for the OP Stack state transition function.
+- [op-succinct](https://github.com/succinctlabs/op-succinct).
+Standalone repo to use Kona & SP1 to verify OP Stack blocks.
 
 ### Polygon
 
