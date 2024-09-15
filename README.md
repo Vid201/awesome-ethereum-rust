@@ -133,6 +133,8 @@ Discover historic Miner Extractable Value (MEV) opportunities.
 Andromeda revm execution service - EVM with precompiles used internally by SUAVE for key management and boostrapping kettles.
 - [rbuilder](https://github.com/flashbots/rbuilder).
 rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.
+- [Brontes](https://github.com/SorellaLabs/brontes).
+A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection.
 
 ## Account Abstraction
 
