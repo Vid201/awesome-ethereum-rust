@@ -99,6 +99,8 @@ Rust Uint crate using const-generics.
 An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage.
 - [Helios](https://github.com/a16z/helios).
 A fast, secure, and portable light client for Ethereum.
+- [Ethereum zk light client](https://github.com/argumentcomputer/zk-light-clients/tree/dev/ethereum).
+Ethereum zk light client leveraging Sphinx (fork of SP1). 
 
 ## Scaling
 
