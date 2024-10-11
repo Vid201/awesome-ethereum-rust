@@ -208,6 +208,8 @@ Optimism alloy types.
 A suite of `no_std` components for the OP Stack state transition function.
 - [op-succinct](https://github.com/succinctlabs/op-succinct).
 Standalone repo to use Kona & SP1 to verify OP Stack blocks.
+- [odyssey](https://github.com/ithacaxyz/odyssey).
+A testnet open-source Layer 2 from the future, co-designed with the developer tools stack.
 
 ### Polygon
 
