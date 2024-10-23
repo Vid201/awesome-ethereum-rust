@@ -100,7 +100,9 @@ An Ethereum portal client: a json-rpc server with nearly instant sync, and low C
 - [Helios](https://github.com/a16z/helios).
 A fast, secure, and portable light client for Ethereum.
 - [Ethereum zk light client](https://github.com/argumentcomputer/zk-light-clients/tree/dev/ethereum).
-Ethereum zk light client leveraging Sphinx (fork of SP1). 
+Ethereum zk light client leveraging Sphinx (fork of SP1).
+- [sp1-helios](https://github.com/succinctlabs/sp1-helios).
+On-chain Ethereum light client built with SP1.
 
 ## Scaling
 
