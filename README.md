@@ -285,6 +285,8 @@ Rust types and services for Zenith (next-gen rollup system).
 Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.
 - [Rivet](https://github.com/paradigmxyz/rivet).
 Developer Wallet & DevTools for Anvil.
+- [solar](https://github.com/paradigmxyz/solar).
+Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust.
 
 ## Smart Contracts
 
