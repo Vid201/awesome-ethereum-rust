@@ -80,6 +80,8 @@ An ether-rs middleware to access reth's db directly, bypassing JSON-RPC.
 Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [ssz-rs](https://github.com/ralexstokes/ssz-rs).
 Implementation of Ethereum's ssz.
+- [sszb](https://github.com/rakita/sszb).
+SSZ with BigEndian notation.
 - [ethereum_ssz](https://github.com/sigp/ethereum_ssz).
 SimpleSerialize (SSZ) implementation optimised for speed and security.
 - [ssz_types](https://github.com/sigp/ssz_types).
