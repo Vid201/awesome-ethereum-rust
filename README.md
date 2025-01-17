@@ -173,6 +173,8 @@ A performant, 100% open-source, contributor-friendly zkVM.
 A performant, type-1 zkEVM written in Rust & SP1.
 - [rsp](https://github.com/succinctlabs/rsp).
 A minimal implementation of ZKPs of Ethereum block execution using Reth.
+- [OpenVM](https://github.com/openvm-org/openvm).
+OpenVM is a performant and modular zkVM framework built for customization and extensibility.
 
 ## Statelessness
 
