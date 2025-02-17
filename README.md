@@ -22,6 +22,8 @@ Awesome Ethereum Rust repos
 
 - [Lighthouse](https://github.com/sigp/lighthouse).
 Ethereum consensus client.
+- [grandine](https://github.com/grandinetech/grandine).
+High performance Ethereum consensus client.
 - [ethereum-consensus](https://github.com/ralexstokes/ethereum-consensus).
 A library for interacting with Ethereum consensus objects.
 - [beacon-api-client](https://github.com/ralexstokes/beacon-api-client).
