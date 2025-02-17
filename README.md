@@ -4,6 +4,7 @@ Awesome Ethereum Rust repos
 
 - [Consensus](#consensus)
 - [Execution](#execution)
+- [Beam Chain](#beam-chain)
 - [EVM - Ethereum Virtual Machine](#evm---ethereum-virtual-machine)
 - [Core](#core)
 - [Light Clients](#light-clients)
@@ -40,6 +41,10 @@ Ethereum execution client - deprecated.
 Ranger is an ethereum p2p client capable of interacting with peers without a full node.
 - [ethrex](https://github.com/lambdaclass/ethrex).
 Lambda Ethereum Rust Execution client.
+
+## Beam Chain
+- [ream](https://github.com/ReamLabs/ream).
+ream: an Ethereum Beam client written in Rust.
 
 ## EVM - Ethereum Virtual Machine
 
