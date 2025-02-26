@@ -16,7 +16,8 @@ Awesome Ethereum Rust repos
 - [Layer 2](#layer-2)
 - [dApp Development](#dapp-development)
 - [Smart Contracts](#smart-contracts)
-- [Data Analytics](#data-analytics)
+- [Analytics](#analytics)
+- [Misc](#misc)
 
 ## Consensus
 
@@ -314,10 +315,12 @@ Solidity-Compiler Version Manager.
 - [huff-rs](https://github.com/huff-language/huff-rs).
 A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
 
-## Data Analytics
+## Analytics
 
 - [cryo](https://github.com/paradigmxyz/cryo).
 cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes.
+- [Ethshadow](https://github.com/ethereum/ethshadow).
+Simulate a full Ethereum network using Shadow.
 
 ## Misc
 
