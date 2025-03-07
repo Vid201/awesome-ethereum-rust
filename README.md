@@ -102,6 +102,12 @@ This crate contains an implementation of an Ethereum Node Record (ENR) as specif
 Dozens of popular crates which provide pure Rust implementations of cryptographic algorithms.
 - [uint](https://github.com/recmo/uint).
 Rust Uint crate using const-generics.
+- [eth-trie.rs](https://github.com/ethereum/eth-trie.rs).
+Rust implementation of the Modified Patricia Tree (aka Trie).
+- [trie-proofs](https://github.com/HerodotusDev/trie-proofs).
+A comprehensive transaction MPT proofs handler for Ethereum / Starknet.
+- [trie](https://github.com/alloy-rs/trie).
+Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles.
 
 ## Light Clients
 
