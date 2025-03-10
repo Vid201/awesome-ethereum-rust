@@ -108,6 +108,8 @@ Rust implementation of the Modified Patricia Tree (aka Trie).
 A comprehensive transaction MPT proofs handler for Ethereum / Starknet.
 - [trie](https://github.com/alloy-rs/trie).
 Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles.
+- [milhouse](https://github.com/sigp/milhouse).
+Persistent binary merkle tree.
 
 ## Light Clients
 
