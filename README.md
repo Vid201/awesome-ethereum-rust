@@ -198,6 +198,8 @@ OpenVM is a performant and modular zkVM framework built for customization and ex
 This is a proof of concept implementation of Verkle Tries.
 - [verkle-block-sample](https://github.com/gballet/verkle-block-sample).
 Example of a block root with a Verkle state root.
+- [ress](https://github.com/paradigmxyz/ress).
+The implementation of Stateless Ethereum client based on Reth.
 
 ## Layer 2
 
